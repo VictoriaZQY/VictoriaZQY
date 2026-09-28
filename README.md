@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictoriaZQY
 - 👀 I’m interested in computer science
-- 🌱 I’m currently studying software engineering
+- 🌱 School Account: https://github.com/qiyuez-cmu-F26
 - 📫 How to reach me (email): qiyuez@andrew.cmu.edu
 - ⚡ Let's explore more unknowns together;)
 
