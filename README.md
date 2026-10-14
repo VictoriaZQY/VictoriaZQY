@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictoriaZQY
-- 👀 I’m interested in computer science
+- 👀 Portfolio: https://victoriazqy.github.io/
 - 🌱 School Account: https://github.com/qiyuez-cmu-F26
 - 📫 How to reach me (email): qiyuez@andrew.cmu.edu
 - ⚡ Let's explore more unknowns together;)
